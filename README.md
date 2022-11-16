@@ -1,5 +1,5 @@
 # Miniscope_preprocessing
-Matlab preprocessing pipeline used to preprocess Miniscope data (NoRMCorre and CNMF-E) in the Willuhn lab at the Netherlands Institute for Neuroscience. 
+[Matlab] Preprocessing pipeline used to preprocess Miniscope data (NoRMCorre and CNMF-E) in the Willuhn lab at the Netherlands Institute for Neuroscience. 
 
 One can run preprocessing for a given session (single mode) or number of sessions consecutive (batch mode). 
 For both options, it runs NoRMCorre on every video, saves non-rigid tiff file, and uses that to run CNMF-e. 
