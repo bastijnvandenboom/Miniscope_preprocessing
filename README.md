@@ -5,7 +5,7 @@ One can run preprocessing for a given session (single mode) or number of session
 For both options, it runs NoRMCorre on every video, saves non-rigid tiff file, and uses that to run CNMF-e. 
 
 Important scripts
-cai_pipeline_bastijn: single mode
+- cai_pipeline_bastijn: single mode
 cai_pipeline_bastijn_batch: batch mode
 
 Optional scripts
