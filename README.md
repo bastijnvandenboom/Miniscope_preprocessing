@@ -3,9 +3,9 @@ Preprocessing pipeline used to preprocess Miniscope data (NoRMCorre and CNMF-E) 
 
 One can run preprocessing for a given session (single mode) or number of sessions consecutive (batch mode). For both options, it runs NoRMCorre on every video, saves non-rigid tiff file, and uses that to run CNMF-e. 
 
-Important scripts
-cai_pipeline_bastijn: single mode
-cai_pipeline_bastijn_batch: batch mode
+Important scripts.
+cai_pipeline_bastijn: single mode.
+cai_pipeline_bastijn_batch: batch mode.
 
 Optional scripts
 cai_pipeline_bastijn_batch_cnmfe_videos: same as cai_pipeline_bastijn, but in addition saves denoised and demixed video. Run this on a small video file (~1000 frames).
