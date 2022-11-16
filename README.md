@@ -13,6 +13,6 @@ only_cnmf_e_bastijn: only run CNMF-E (use this if CNMF-E keeps crashing during c
 
 This pipeline makes use of other packages (included in this folder):
 
-rharkes's Fast_Tiff_Write (https://github.com/rharkes/Fast_Tiff_Write)
-flatironinstitute's NoRMCorre (https://github.com/flatironinstitute/NoRMCorre)
-zhoupc's CNMF_E (https://github.com/zhoupc/CNMF_E)
+  rharkes's Fast_Tiff_Write (https://github.com/rharkes/Fast_Tiff_Write)
+  flatironinstitute's NoRMCorre (https://github.com/flatironinstitute/NoRMCorre)
+  zhoupc's CNMF_E (https://github.com/zhoupc/CNMF_E)
